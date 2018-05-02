@@ -191,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in Project110">
+  <component name="RunManager" selected="JUnit.edu.ucsd.cs110 in Project110">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="Project110" />
@@ -236,6 +236,29 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="edu.ucsd.cs110 in Project110" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -294,9 +317,11 @@
       <item itemvalue="Application.TemperatureConverter" />
       <item itemvalue="JUnit.CelsiusTest" />
       <item itemvalue="JUnit.edu.ucsd.cs110.tests in Project110" />
+      <item itemvalue="JUnit.edu.ucsd.cs110 in Project110" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.edu.ucsd.cs110 in Project110" />
         <item itemvalue="JUnit.edu.ucsd.cs110.tests in Project110" />
         <item itemvalue="JUnit.CelsiusTest" />
         <item itemvalue="Application.TemperatureConverter" />
